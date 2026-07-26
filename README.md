@@ -2,7 +2,7 @@
 
 Ce depot contient le code source de mon site web personnel et CV en ligne, heberge gratuitement via GitHub Pages.
 
-Lien vers le site en direct : https://ton-pseudo.github.io
+Lien vers le site en direct : https://rassim-boucenna.github.io
 
 ## A propos de ce projet
 
@@ -20,11 +20,11 @@ Pour le moment, le site est construit de maniere volontairement legere et sans f
 Le site etant entierement statique, il ne necessite aucun serveur local ou dependance pour etre teste.
 Pour l'afficher en local, il suffit de cloner le depot et d'ouvrir le fichier principal dans un navigateur :
 
-1. git clone https://github.com/ton-pseudo/ton-pseudo.github.io.git
+1. git clone https://github.com/ton-pseudo/rassim-boucenna.github.io.git
 2. cd ton-pseudo.github.io
 3. Ouvrir le fichier index.html avec votre navigateur web (Chrome, Firefox, etc.)
 
 ## Contact
 
-- LinkedIn : [Lien vers ton LinkedIn]
+- LinkedIn : https://www.linkedin.com/in/rassim-boucenna/
 - Email : rassim.boucenna@gmail.com
